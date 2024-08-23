@@ -41,3 +41,20 @@ if (person1Age > person2Age) {  // person1 is older
 } else { //person1 and person2 are same 
     console.log("We're birthday friends!")
 }
+
+
+
+let isLoggedIn = false;
+
+if (isLoggedIn === true) {
+
+    console.log("Please log in")
+
+} else if (isLoggedIn === false) {
+
+    console.log("Login failed my G")
+    
+} 
+
+
+
